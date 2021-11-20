@@ -1,0 +1,21 @@
+10
+What's your name?
+*My name is John.*John.*John. Yeah.*Thank you!
+How are you?
+*I'm fine. Thank you!*No, I don't.*It's a kite.*I look like handsome.
+Hello, John!
+*Good morning, Professor!*Hi! *Hi, Professor! *Thank you!
+Do you like it?
+*Yes, I do. *It sounds good. *Thank you! *Great!
+Does it rain?
+*Yes, it rains. *No, I don't *Yes, I don't. *Yes, It's cloudy.
+Do you have a pet?
+*Yes, I have one.*No, I have some cookies.*Yeah, it's real.*Not at all.
+How old are you?
+*I'm ten.*I am a boy.*I don't like you.*I like you.
+How do you feel?
+*I am cold.*I see.*I am writting.*I hate you.
+What favourite food do you like?
+*My favourite food is ice cream.*It's a dog.*Maybe some cute fan.*I like you.
+How does she look like?
+*She is beautiful.*She has some cheese.*She is looking a volleyball match.*She is handsome.

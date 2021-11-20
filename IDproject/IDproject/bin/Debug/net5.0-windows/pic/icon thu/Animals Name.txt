@@ -1,0 +1,12 @@
+1:Con tắc kè hoa
+2:Con hổ
+3:Con vẹt
+4:Con gấu nâu
+5:Con voi
+6:Con sư tử
+7:Con hạc
+8:Con cá sấu
+9:Con ngựa vằn
+10:Con công
+11:Con hươu cao cổ
+12:Con rắn

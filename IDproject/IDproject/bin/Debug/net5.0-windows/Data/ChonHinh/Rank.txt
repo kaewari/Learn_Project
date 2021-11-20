@@ -1,0 +1,3 @@
+Tên người chơi: Demo
+Điểm cao nhất: 0
+Thời gian chơi: 100

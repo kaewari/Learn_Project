@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Game\BangVeTreEm\BangVeTreEm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\DuaXeHocTiengAnh\DuaXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\DuaXeHocTiengAnh\DuaXe_CauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\DuaXeHocTiengAnh\DuaXe_TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\EchNhay\BatDauEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\EchNhay\echNhayChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\EchNhay\echNhaySo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\HungTaoHocToan\HungTao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\HungTaoHocToan\HungTao_CauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\HungTaoHocToan\HungTao_TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\SoThu\BatDauST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\SoThu\SoThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\SoThu\TuongTacST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\ChonHinh\ChonHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\GameChonHinh\GameChonHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\GameLatHinh\GameLatHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\HuongDan\HuongDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\HuongDan\HuongDanBanPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\HuongDan\HuongDanCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\HuongDan\HuongDanLH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game\Sơn\LatHinh\LatHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="parentpass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

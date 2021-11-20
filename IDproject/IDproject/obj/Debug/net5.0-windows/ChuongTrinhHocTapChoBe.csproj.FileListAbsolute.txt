@@ -1,0 +1,321 @@
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Videos\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\1\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+D:\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+D:\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\OneDrive\Máy tính\New folder\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\THANH SON\OneDrive\Desktop\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\bin\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.ResolveComReference.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.BangVeTreEm.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.DuaXeHocTiengAnh.DuaXe_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.BatDauEN.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhayChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.EchNhay.echNhaySo.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTao_CauHoi.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HungTaoHocToan.HungTao_TrangChu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.BatDauST.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.SoThu.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.SoThu.TuongTacST.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanBanPhim.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.Sơn.HuongDan.HuongDanCH.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.HuongDanLH.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.parentpass.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.Properties.Resources.resources
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ref\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen Minh\Downloads\FireFox\IDproject11111\IDproject\IDproject\obj\Debug\net5.0-windows\ChuongTrinhHocTapChoBe.genruntimeconfig.cache

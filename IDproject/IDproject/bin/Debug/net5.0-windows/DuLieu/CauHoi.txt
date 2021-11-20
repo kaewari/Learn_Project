@@ -1,0 +1,12 @@
+﻿1.Hi, I'm an ELEPHANT!  WHAT IS YOUR NAME?.MY NAME IS.Nice to meet you . .Voi sử dụng đôi tai của mình như một chiếc quạt để làm mát cơ thể
+3.Hi, I'm a GIRAFFE!  HOW OLD ARE YOU?.I AM.I am also .YEARS OLD.Hươu cao cổ chỉ cần uống nước một lần cho nhiều ngày
+5.Hi, I'm a ZEBRA! HOW ARE YOU?.I AM.OH! I see you are . .Sọc đen trắng giúp ngựa vằn chống lại bệnh tật và côn trùng
+7.Hi, I'm a LION! WHAT GRADE ARE YOU IN?.I AM IN GRADE.We are in same grade . .Sư tử giao tiếp với nhau bằng âm thanh hoặc hành động
+9.Hi, I'm a TIGER! HOW MANY PEOPLE IN YOUR FAMILY?.MY FAMILY HAS.WOW!That's a big family with a .PEOPLE.Hổ có thể sát trùng vết thương bằng cách liếm
+11.Hi, I'm a BEAR! WHERE DO YOU FROM?.I AM FROM .Amazing! I want go to .CITY / PROVINCE.Gấu xám có thể ăn được rất nhiều thứ: thịt, cá, thực vật, côn trùng
+13.Hi, I'm a PEACOCK! WHO ARE YOUR BEST FRIENDS?.MY BEST FRIENDS ARE.I really want to meet . .Chim công đực có lông sặc sỡ hơn chim công cái
+15.Hi, I'm a PARROT! WHAT SPORT DO YOU LIKE TO PLAY?.I LIKE TO PLAY.We will play . .Vẹt là loài chim duy nhật có thể dùng chân để ăn
+17.Hi, I'm a FLAMINGO! WHAT SUBJECT DO YOU LIKE?.I LIKE.I really like .VERY MUCH.Hồng hạc có lông màu hồng vì chúng ăn tảo đỏ
+19.Hi, I'm an IGUANA! WHAT DO YOU DO TO HELP YOUR PARENT?.I DO.You so hard-working to do .TO HELP MY PARENT.Kỳ nhông thích tắm nắng để làm ấm cơ thể
+21.Hi, I'm a SNAKE! WHAT DO YOU DO IN YOUR FREE TIME?.I USUALLY.I often .IN MY FREE TIME.Rắn dùng lưỡi để ngửi mùi
+23.Hi, I'm a CROCODILE! WHAT IS YOUR HOBBY?.MY HOBBY IS.Great! I like . .Cá sấu thường há miệng để giải nhiệt

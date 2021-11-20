@@ -1,0 +1,41 @@
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.exe
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.dll
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.pdb
+C:\Users\Tien Nguyen\OneDrive\Desktop\IDproject\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.AssemblyReference.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.LatHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Login.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Main.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.GenerateResource.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.AssemblyInfoInputs.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.AssemblyInfo.cs
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.csproj.CoreCompileInputs.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.pdb
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.exe
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.deps.json
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.runtimeconfig.json
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.runtimeconfig.dev.json
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.dll
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\bin\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.pdb
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.genruntimeconfig.cache
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.ChonHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.GameLatHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.ChonGame.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.GameChonHinh.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.ChooseWord.resources
+C:\Users\THANH SON\OneDrive\Desktop\Đồ án LTGD\IDproject\obj\Debug\netcoreapp3.1\ChuongTrinhHocTapChoBe.Game.HuongDan.resources
